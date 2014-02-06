@@ -1,6 +1,1 @@
-<<<<<<< HEAD
- LD
-=======
-LD
-j'ai mis un fichier tout pourri et je vous emmerde
->>>>>>> b4bdd38038bed7fdf2f7f2044bbc36624c16273d
+J'aime les entrequotes.
